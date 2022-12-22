@@ -15,7 +15,7 @@ UNO chatbot will helps users to know the pending task and update into database.
 
 
 # 2. Solution architecture    
-![UNO Task upload](C:\Users\esathi\OneDrive - Capgemini\Desktop\Projects\UNO\UNO Task upload.png)
+![UNO Task upload](https://github.com/sathish0910/test/blob/main/UNO%20Task%20upload.png)
 
 ## 2.1 Components
 
@@ -32,7 +32,7 @@ UNO chatbot will helps users to know the pending task and update into database.
 
 2. Update the task in excel file and with additional information.
    
-   ![image-20221222153532766](C:\Users\esathi\AppData\Roaming\Typora\typora-user-images\image-20221222153532766.png)
+   ![image-20221222153532766](https://github.com/sathish0910/test/blob/main/Untitled.png)
    
    - Pending topic & Pending action - Please select the given in dropdown
      - Goal setting
